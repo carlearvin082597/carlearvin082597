@@ -24,6 +24,10 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+---
+
+### :woman_technologist: About Me :
+
 <ul>
 <li>🔭 I’m currently working on improving my skills and expanding my knowledge in software development.</li>
 <li>🌱 I’m currently learning Vanilla JavaScript, Node.js, and Express.js to build robust web applications.</li>
