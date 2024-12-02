@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNwdXZ6MXh5NHhldGttNmJndTBwMzFndjlxcmcweDdlY3EzNjdsNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XraD6fcKDvmGhUcCR/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNwdXZ6MXh5NHhldGttNmJndTBwMzFndjlxcmcweDdlY3EzNjdsNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XraD6fcKDvmGhUcCR/giphy.gif" width="200"/>
 
   <div id="badges">
   <a href="https://www.linkedin.com/in/carl-earvin-nonacido-7a031a339/">
