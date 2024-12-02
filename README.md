@@ -26,7 +26,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 
 <ul>
 <li>🔭 I’m currently working on improving my skills and expanding my knowledge in software development.</li>
