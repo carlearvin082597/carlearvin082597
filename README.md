@@ -1,4 +1,3 @@
-
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNwdXZ6MXh5NHhldGttNmJndTBwMzFndjlxcmcweDdlY3EzNjdsNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XraD6fcKDvmGhUcCR/giphy.gif" width="100"/>
 
@@ -17,6 +16,10 @@
 </div>
 
 ## Hi there 👋
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 <ul>
 <li>🔭 I’m currently working on improving my skills and expanding my knowledge in software development.</li>
