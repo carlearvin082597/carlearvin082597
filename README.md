@@ -1,3 +1,15 @@
+<div id="badges">
+  <a href="https://www.linkedin.com/in/carl-earvin-nonacido-7a031a339/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://youtube.com/@carlearvin25?si=nXrEsDSdYE9E2NnI">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://www.facebook.com/noynoy082597">
+    <img src="https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=facebook" alt="Facebook Badge"/>
+  </a>
+</div>
+
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNwdXZ6MXh5NHhldGttNmJndTBwMzFndjlxcmcweDdlY3EzNjdsNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XraD6fcKDvmGhUcCR/giphy.gif" width="100"/>
 </div>
