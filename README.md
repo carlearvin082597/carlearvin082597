@@ -12,10 +12,10 @@
     <img src="https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=facebook" alt="Facebook Badge"/>
   </a>
 </div>
+## Hi there 👋
 
 </div>
 
-## Hi there 👋
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
